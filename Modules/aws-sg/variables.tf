@@ -2,7 +2,7 @@ variable "project" {
     type = string
 }
 
-variable "environment" {
+variable "env" {
     type = string
 }
 
